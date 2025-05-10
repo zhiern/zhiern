@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a developer passionate about OpenWrt, Linux, a
 - 🌱 I’m currently learning **Rust** and improving my skills in **Linux Kernel development**
 - 👯 I’m open to collaborating on **OpenWrt** and **embedded systems** projects
 - 💬 Ask me about **OpenWrt** or **Linux systems**
-- 📫 How to reach me: [@oppen321 on Telegram](https://t.me/OPPEN321)
+- 📫 How to reach me: [@zhiern on Telegram](https://t.me/OPPEN321)
 
 ---
 
