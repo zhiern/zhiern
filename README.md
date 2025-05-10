@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a developer passionate about OpenWrt, Linux, a
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/zhiern"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oppen321&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" alt="oppen321's github stats" /></a> | <a href="https://github.com/oppen321"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppen321&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/zhiern"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhiern&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" alt="oppen321's github stats" /></a> | <a href="https://github.com/zhiern"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiern&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- |  ------------- | 
 
 ---
