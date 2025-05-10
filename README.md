@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a developer passionate about OpenWrt, Linux, a
 
 ## 🔗 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-@oppen321-blue?style=for-the-badge&logo=telegram)](https://t.me/OPPEN321)
-[![GitHub](https://img.shields.io/badge/GitHub-@oppen321-black?style=for-the-badge&logo=github)](https://github.com/oppen321)
+[![Telegram](https://img.shields.io/badge/Telegram-@zhiern-blue?style=for-the-badge&logo=telegram)](https://t.me/OPPEN321)
+[![GitHub](https://img.shields.io/badge/GitHub-@zhiern-black?style=for-the-badge&logo=github)](https://github.com/zhiern)
 
 ---
 
